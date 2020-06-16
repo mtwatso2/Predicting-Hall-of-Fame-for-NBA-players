@@ -7,6 +7,7 @@ Data was downloaded from: https://www.basketball-reference.com/awards/slam_500_g
 ## Files included:
 * Final Project.ipynb: commented Jupyter notebook
 * Final Project.html: hmtl version of Jupyter notebook 
+* data.csv: original data
 * final.py: preprocessing and code from notebook
-* nba.csv: data used
+* nba.csv: cleaned data
 * summary.docs: report
