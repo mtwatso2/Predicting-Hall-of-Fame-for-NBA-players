@@ -5,8 +5,8 @@ The goal of this project to use data from SLAM magazine on the top 500 NBA playe
 Data was downloaded from: https://www.basketball-reference.com/awards/slam_500_greatest.html 
 
 ## Files included:
-* Final Project.ipynb: commented Jupyter notebook
 * Final Project.html: hmtl version of Jupyter notebook 
+* Final Project.ipynb: commented Jupyter notebook
 * data.csv: original data
 * final.py: preprocessing and code from notebook
 * nba.csv: cleaned data
